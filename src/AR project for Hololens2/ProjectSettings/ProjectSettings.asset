@@ -134,7 +134,11 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 196886919355894644, guid: 2669948deaa91f8419f86bde3bde6fe5, type: 2}
+  - {fileID: -3165913439457208683, guid: 6484254c2849c404cbe8e44b898ec7f7, type: 2}
+  - {fileID: 11400000, guid: 0f0c92c562ddac44eb26f67f46c29f9a, type: 2}
+  - {fileID: 11400000, guid: c677e5c4eb85b7849a8da406775c299d, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -766,11 +770,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: AR project for Hololens2
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00b5f7dd2509db01
   metroApplicationDescription: AR project for Hololens2
   wsaImages: {}
   metroTileShortName: 
