@@ -12,6 +12,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.8.0",
     "com.unity.xr.openxr": "1.8.2",
+    "com.veriorpies.parrelsync": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync",
     "org.mixedrealitytoolkit.accessibility": "file:MixedReality/org.mixedrealitytoolkit.accessibility-1.0.0-pre.18.tgz",
     "org.mixedrealitytoolkit.audio": "file:MixedReality/org.mixedrealitytoolkit.audio-3.0.0.tgz",
     "org.mixedrealitytoolkit.core": "file:MixedReality/org.mixedrealitytoolkit.core-3.0.0.tgz",
